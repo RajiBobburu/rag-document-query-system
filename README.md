@@ -89,5 +89,9 @@ Limitations
 - Works only with provided data (no internet knowledge)
 - Website scraping may fail for dynamic pages
 - Accuracy depends on input data quality
+-------------------------------
+Demo : 
+  <img width="1884" height="936" alt="image" src="https://github.com/user-attachments/assets/c590d079-7688-4060-a8f9-10b15c0e77a8" />
+
 
 Author : Bobburu Raji
