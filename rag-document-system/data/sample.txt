@@ -1,0 +1,9 @@
+Genesys call center platform stores interaction data using conversation ID.
+
+Each call can have multiple segments tracked using tHandle.
+
+Transcripts include speaker (agent/caller), timestamps, and sentiment.
+
+Elasticsearch indexes call data for analytics dashboards.
+
+Sentiment analysis is performed on call transcripts to classify customer emotions.
